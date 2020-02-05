@@ -1,0 +1,161 @@
+.body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav {
+    background-color: #F7E4EC; 
+    
+}
+
+.navname {
+    color: #707070; 
+}
+
+
+.main {
+    background-color: #F7E4EC;
+    height: 360px;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+}
+
+.name{ 
+    font-family: 'Bebas Neue', cursive;
+    font-size:60px;
+    align-items: center;
+}
+
+.title {
+    font-family: 'Bebas Neue', cursive;
+    font-size:40px;
+    align-items: center;
+}
+
+.main {
+    display: flex; 
+}
+
+.profile {
+    display: flex;
+   
+}
+
+
+.gelpic {
+    max-width: 85%;
+    max-height: 85%;
+    display:flex;
+
+  
+}
+
+.info {
+    padding-top: 70px;
+    text-align: center;
+}
+
+.social {
+    padding-top: 15px;
+}
+
+.linkedinlogo {
+    max-width:73%;
+    max-height:73%;
+}
+
+.facebooklogo {
+    max-width:70%;
+    max-height:70%;
+}
+
+.instagramlogo {
+    max-width:70%;
+    max-height:70%; }
+
+
+
+.cards {
+    padding:15px;
+    display:flex;
+    justify-content: center;
+   
+}
+
+.infocards {
+    display:flex;
+    flex-direction: row;
+    text-align: center;
+   
+}
+
+.angelica {
+    display:flex;
+    background-color: rgb(197, 111, 123);
+
+}
+
+.aboutme {
+    max-width:80%;
+}
+
+.flowergel {
+    max-width: 85%;
+    max-height: 85%;
+}
+
+
+.who{
+    display:flex;
+    justify-content:  center;
+    align-items: center;
+    
+}
+.aboutme {
+    display:flex;
+    height:350px;
+    text-align: center;
+
+    
+}
+
+.paragraph {
+    font-family: 'Roboto', sans-serif;
+    color:white;
+    font-size:20px;
+    line-height: 42px;
+    display:flex;
+    justify-content: center;
+  
+
+}
+.aboutmeBox {
+    padding-top: 20px;
+    width:70%;
+ 
+}
+
+.me {
+    font-size:35px;
+}
+
+.LF {
+    font-family: 'Roboto', sans-serif;
+}
+
+.energy {
+    font-family: 'Roboto', sans-serif;
+}
+
+.amigo {
+    max-height: 60%;
+    max-width: 60%;
+}
+
+.travelust {
+    max-height: 60%;
+    max-width: 60%;
+
+}
